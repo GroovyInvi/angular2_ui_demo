@@ -1,0 +1,7 @@
+main{
+    padding-left: 240px;
+}
+
+.side-nav.fixed.closed{
+    width: 100px;
+}
